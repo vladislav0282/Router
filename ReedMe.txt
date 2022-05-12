@@ -1,0 +1,3 @@
+Создаем проект React npx create-react-app app_01
+
+устанавливаем пакет npm i react-router-dom
